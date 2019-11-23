@@ -1,0 +1,6 @@
+server:
+  port: 8091
+
+kafka:
+  topic-a: Youtube-Search
+  topic-b: Youtube-Modify

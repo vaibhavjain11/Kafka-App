@@ -1,0 +1,8 @@
+server:
+  port: 9091
+
+youtube:
+  apikey: AIzaSyAtBXlIF55x03i56-4mjxU6PzhvkdVVWpo
+
+kafka:
+  topic: Youtube-Search
